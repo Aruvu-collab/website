@@ -31,7 +31,7 @@ export default defineConfig({
       {
         label: "People",
         name: "people",
-        path: "src/content/people",
+        path: "content/people",
         fields: [
           { type: "string", name: "name", label: "Name" },
           { type: "image", name: "photo", label: "Photo" },
@@ -41,7 +41,7 @@ export default defineConfig({
       {
         label: "Work",
         name: "work",
-        path: "src/content/work",
+        path: "content/work",
         fields: [
           { type: "string", name: "title", label: "Title" },
           { type: "string", name: "description", label: "Description" },
@@ -50,7 +50,7 @@ export default defineConfig({
       {
         label: "Places",
         name: "places",
-        path: "src/content/places",
+        path: "content/places",
         fields: [
           { type: "string", name: "title", label: "Title" },
           { type: "string", name: "description", label: "Description" },
@@ -59,7 +59,7 @@ export default defineConfig({
       {
         label: "Collaborators",
         name: "collaborators",
-        path: "src/content/collaborators",
+        path: "content/collaborators",
         fields: [
           { type: "string", name: "title", label: "Title" },
           { type: "string", name: "description", label: "Description" },

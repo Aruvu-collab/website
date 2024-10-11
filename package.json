@@ -21,6 +21,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"marked": "^14.1.2",
 		"tinacms": "^2.2.9"
 	}
 }
