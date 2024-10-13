@@ -1,64 +1,23 @@
 <script>
-  import { onMount } from 'svelte';
-  import matter from 'gray-matter';
-  import { marked } from 'marked';
+  import { faMusic } from '@fortawesome/free-solid-svg-icons';  
+  import { Fa } from 'svelte-fa';
+  export let data;
 
-  const peopleFiles = import.meta.glob('../../content/people/*.md'); // Correct path
-
-  let people = []; // Initialize the people array
-
-  // Load the data from Markdown files
-  async function loadPeople() {
-    console.log("Loading people..."); // Debug: Check if function is called
-
-    const peopleArray = await Promise.all(
-      Object.entries(peopleFiles).map(async ([path, resolver]) => {
-        try {
-          const { default: markdown } = await resolver(); // Resolve the module to get markdown content
-          console.log(`Loading ${path}`); // Debug: Show which file is loading
-          console.log('Markdown content:', markdown); // Log the markdown content
-
-          if (!markdown) {
-            console.warn(`No content for ${path}`); // Check if content is missing
-            return null;
-          }
-
-          const { data, content } = matter(markdown); // Parse frontmatter using gray-matter
-          const htmlContent = marked(content); // Convert Markdown content to HTML
-
-          console.log('Parsed data:', data); // Log parsed frontmatter
-          console.log('HTML content:', htmlContent); // Log converted HTML content
-
-          return {
-            ...data,
-            slug: path.split('/').pop().replace('.md', ''), // Create a slug from the filename
-            bio: htmlContent // Store the converted HTML content
-          };
-        } catch (error) {
-          console.error(`Error loading ${path}:`, error); // Log any errors
-          return null; // Return null for failed loads
-        }
-      })
-    );
-
-    // Filter out any null values
-    people = peopleArray.filter(person => person !== null); 
-
-    console.log('People array:', people); // Debug output to check if array is populated
-  }
-
-  // Load data on component mount
-  onMount(loadPeople);
+  let { people } = data;
 </script>
 
-{#if people.length > 0}
-  <div class="people-grid">
+{#if people}
+  <div class="people-grid max-w-5xl mx-auto pt-5">
     {#each people as person (person.slug)}
-      <div class="card">
-        <img src={person.photo} alt={person.name} class="photo" />
-        <h3>{person.name}</h3>
-        <div class="bio">{@html person.bio}</div> <!-- Correct usage of {@html} -->
-      </div>
+      <a href={`/people/${person.slug}`} class="card hover:shadow-lg transition-shadow relative mx-5 md:mx-0">
+        <h3 class="text-lg font-bold mt-4">{person.name}</h3>
+        <div class="role text-md text-gray-500 pb-3">{@html person.role}</div>
+        <img src={person.photo} alt={person.name} class="photo w-full h-56 object-cover" />
+        <div class="song-info flex items-center justify-center bg-pink-100 p-5">
+          <Fa icon={faMusic} class="w-4 h-4 text-gray-600" />
+          <span class="ml-2 text-xs text-gray-600">{@html person.song}</span>
+        </div>      
+      </a>
     {/each}
   </div>
 {:else}
@@ -73,15 +32,17 @@
   }
 
   .card {
-    border: 1px solid #ccc;
+    position: relative;
+    border: 1px solid #e0e0e0;
     border-radius: 8px;
-    padding: 16px;
+    background-color: #fff;
     text-align: center;
+    padding: 0.5rem;
+    overflow: hidden;
   }
 
   .photo {
     max-width: 100%;
-    height: auto;
-    border-radius: 4px;
+    object-fit: cover;
   }
 </style>

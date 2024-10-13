@@ -21,7 +21,12 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@fortawesome/fontawesome-svg-core": "^6.6.0",
+		"@fortawesome/free-solid-svg-icons": "^6.6.0",
 		"marked": "^14.1.2",
-		"tinacms": "^2.2.9"
+		"svelte-fa": "^4.0.3",
+		"svelte-hero-icons": "^5.2.0",
+		"tinacms": "^2.2.9",
+		"yaml": "^2.5.1"
 	}
 }
