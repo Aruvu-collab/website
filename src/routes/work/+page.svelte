@@ -17,7 +17,7 @@
           <div class="flex-1 mt-4">
             <h3 class="text-md font-bold">{packages.name}</h3>
           </div>
-          <img src={packages.cover} alt={packages.name} class="photo w-full h-52 object-cover my-3" />      
+          <img src={packages.cover} alt={packages.name} class="photo w-full md:h-52 object-cover my-3" />      
           <div class="mt-auto"> <!-- Ensures the button stays at the bottom -->
             <button
               class="bg-maroon text-white font-semibold w-full h-12 rounded shadow hover:bg-red-700 transition duration-200"
