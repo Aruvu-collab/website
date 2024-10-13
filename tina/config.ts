@@ -41,6 +41,67 @@ const branch =
                 { type: "string", name: "name", label: "Name" },
                 { type: "image", name: "photo", label: "Photo" },
                 { type: "rich-text", name: "bio", label: "Bio" },
+                { type: "string", name: "slug", label: "URL Add On" },
+              ],
+            },
+          ],
+        },
+        {
+          label: "Work",
+          name: "work",
+          path: "src/lib/work", // Correct path to the single YAML file
+          format: "yaml",          // Format should remain as YAML
+          fields: [
+            {
+              type: "object",
+              list: true, // List field to represent multiple people
+              name: "work",
+              itemProps: (item) => ({
+                label: item.name || "New work package", // Dynamically set label to person's name
+              }),
+              fields: [
+                { type: "string", name: "name", label: "Work Package" },
+                { type: "image", name: "cover", label: "Cover"},
+                { type: "rich-text", name: "desc", label: "Description" },
+                {
+                  type: 'object',
+                  name: 'images', // Name for the multiple images field
+                  label: 'Additional Images',
+                  list: true, // Enable multiple selections
+                  fields: [
+                    {
+                      type: 'image',
+                      name: 'url',
+                      label: 'Image URL',
+                    },
+                    {
+                      type: 'string',
+                      name: 'caption',
+                      label: 'Caption',
+                    },
+                  ],
+                },
+                { type: "string", name: "slug", label: "URL Add On" },
+              ],
+            },
+          ],
+        },
+        {
+          label: "Collaborators",
+          name: "collaborators",
+          path: "src/lib/collaborators",
+          format: "yaml",
+          fields: [
+            {
+              type: "object",
+              list: true, // List field to represent multiple people
+              name: "collaborators",
+              itemProps: (item) => ({
+                label: item.name || "New Collaborator", // Dynamically set label to person's name
+              }),
+              fields: [
+                { type: "string", name: "name", label: "Name" },
+                { type: "image", name: "photo", label: "Photo" },
               ],
             },
           ],

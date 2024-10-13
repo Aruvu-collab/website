@@ -21,8 +21,8 @@
       <a href="/" class="text-maroon font-medium hover:text-gray-400">Home</a>
       <a href="/people" class="text-maroon font-medium hover:text-gray-400">People</a>
       <a href="/work" class="text-maroon font-medium hover:text-gray-400">Work</a>
-      <a href="/places" class="text-maroon font-medium hover:text-gray-400">Places</a>
-      <a href="/collaborators" class="text-maroon font-medium hover:text-gray-400">Collaborators</a>
+      <!-- <a href="/places" class="text-maroon font-medium hover:text-gray-400">Places</a> -->
+      <!-- <a href="/collaborators" class="text-maroon font-medium hover:text-gray-400">Collaborators</a> -->
     </div>
   </div>
 </nav>
