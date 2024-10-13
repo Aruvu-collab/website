@@ -7,12 +7,12 @@
 </script>
 
 {#if people}
-  <div class="people-grid max-w-5xl mx-auto pt-5">
-    {#each people as person (person.slug)}
+<div class="grid grid-cols-1 max-w-5xl mx-auto sm:grid-cols-2 md:grid-cols-4 md:gap-4 gap-y-8 pt-5 sm:p-5 pb-10">
+  {#each people as person (person.slug)}
       <a href={`/people/${person.slug}`} class="card hover:shadow-lg transition-shadow relative mx-5 md:mx-0">
         <h3 class="text-lg font-bold mt-4 text-maroon">{person.name}</h3>
         <div class="role text-md text-brown pb-3">{@html person.role}</div>
-        <img src={person.photo} alt={person.name} class="photo w-full h-56 object-cover" />
+        <img src={person.photo} alt={person.name} class="photo w-full md:h-56 object-cover" />
         <div class="song-info flex items-center justify-center bg-pink-100 p-5">
           <Fa icon={faMusic} class="w-4 h-4 text-gray-600" />
           <span class="ml-2 text-xs text-gray-600">{@html person.song}</span>
@@ -25,12 +25,6 @@
 {/if}
 
 <style>
-  .people-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 16px;
-  }
-
   .card {
     position: relative;
     border: 1px solid #e0e0e0;

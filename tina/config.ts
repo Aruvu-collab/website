@@ -40,8 +40,9 @@ const branch =
               fields: [
                 { type: "string", name: "name", label: "Name" },
                 { type: "image", name: "photo", label: "Photo" },
-                { type: "rich-text", name: "bio", label: "Bio" },
                 { type: "string", name: "slug", label: "URL Add On" },
+                { type: "string", name: "song", label: "Recommend a song" },
+                { type: "rich-text", name: "bio", label: "Bio" },
               ],
             },
           ],
