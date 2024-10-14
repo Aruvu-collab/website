@@ -41,13 +41,13 @@
       <li>4. Digital learning products and curriculum design</li>
       <li>5. Research and development of products and services that enable community-led development</li>
     </ul>
-    
+    <a href="/work">
     <button 
       class="bg-maroon text-white font-semibold py-2 px-4 rounded shadow hover:bg-red-700 transition duration-200 mt-5"
-      on:click={() => navigateToWorkPage()}
     >
       View Our Work
     </button>
+    </a>
   </div>
 </section>
 
