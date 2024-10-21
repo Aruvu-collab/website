@@ -1,9 +1,14 @@
 people:
+  - name: Pink
+    photo: /IMG_20241017_143547757.jpg
+    slug: pink
+    song: Who let the dogs inside
+    bio: |
+      Woof
   - name: Naveen Bagalkot
-    slug: naveen-bagalkot
     photo: /Naveen_Profile.jpg
-    song: Maadeva - Sanjith Hegde, Charan Raj, Hanumankind
-    role: Partner
+    slug: naveen-bagalkot
+    song: 'Maadeva - Sanjith Hegde, Charan Raj, Hanumankind'
     bio: >
       I am a design researcher, educator, and facilitator broadly working at the
       intersections of human-computer interaction (HCI) design, participatory
@@ -35,10 +40,9 @@ people:
       across undergraduate and graduate programs in Human Centered Design,
       Participatory Design and Interaction Design.
   - name: Shreyas Srivatsa
-    slug: shreyas-srivatsa
     photo: /IMG_3477.jpg.png
-    song: Maadeva - Sanjith Hegde, Charan Raj, Hanumankind
-    role: Partner
+    slug: shreyas-srivatsa
+    song: 'Maadeva - Sanjith Hegde, Charan Raj, Hanumankind'
     bio: >
       I’m co-creator and director of Living Labs Network & Forum, collaborating
       and learning with communities and institutions in the Dakkhani Region
@@ -62,10 +66,9 @@ people:
       critical heritage studies; climate change and adaptation; urban
       livelihoods; and development studies.
   - name: Sangeetha Rajapandian
-    slug: sangeetha-rajapandian
     photo: /WhatsApp Image 2024-05-03 at 09.37.44.jpeg.png
-    song: Maadeva - Sanjith Hegde, Charan Raj, Hanumankind
-    role: Sr Fellow
+    slug: sangeetha-rajapandian
+    song: 'Maadeva - Sanjith Hegde, Charan Raj, Hanumankind'
     bio: >
       I am a Social Science Researcher with extensive experience in work with
       local, grassroots and rural communities. I was part of the household
@@ -89,10 +92,9 @@ people:
       Community led research and action which are place-based and explore
       different methodologies in multi disciplinary action research.
   - name: Micah Alex
-    slug: micah-alex
     photo: /WhatsApp Image 2024-05-03 at 10.42.15.jpeg
-    song: Maadeva - Sanjith Hegde, Charan Raj, Hanumankind
-    role: Sr Fellow
+    slug: micah-alex
+    song: 'Maadeva - Sanjith Hegde, Charan Raj, Hanumankind'
     bio: >
       I engage with LLNaF through small makings, small conversations, and small
       observations. I write, design, test, illustrate, and study in different
