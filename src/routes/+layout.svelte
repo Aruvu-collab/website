@@ -3,14 +3,14 @@
 </script>
 
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+  /* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap'); */
 </style>
 
 <!-- Navigation Bar -->
 <nav class="bg-white p-4 w-full sticky top-0 z-50">
   <!-- First Line: Logo Section -->
   <div class="flex items-center justify-center mb-4">
-    <a href="/" class="text-maroon text-2xl font-semibold flex items-center">
+    <a href="/" data-sveltekit-reload class="text-aruvupink text-2xl font-semibold flex items-center">
       <img src="/img/Aruvu_logo.png" alt="Logo" class="h-10 mr-3" />
     </a>
   </div>
@@ -18,9 +18,10 @@
   <!-- Second Line: Navigation Links -->
   <div class="flex justify-center">
     <div class="flex flex-wrap space-x-4 text-center">
-      <a href="/" class="text-maroon font-medium hover:text-gray-400">Home</a>
-      <a href="/people" class="text-maroon font-medium hover:text-gray-400">People</a>
-      <a href="/work" class="text-maroon font-medium hover:text-gray-400">Work</a>
+      <!-- <a href="/" class="text-aruvupink font-medium hover:text-gray-400">Home</a> -->
+      <a href="/people" data-sveltekit-reload class="text-aruvupink font-medium hover:text-gray-400">People</a>
+      <a href="/work" data-sveltekit-reload class="text-aruvupink font-medium hover:text-gray-400">Work</a>
+      <a href="/engagements" data-sveltekit-reload class="text-aruvupink font-medium hover:text-gray-400">Engagements</a>
       <!-- <a href="/places" class="text-maroon font-medium hover:text-gray-400">Places</a> -->
       <!-- <a href="/collaborators" class="text-maroon font-medium hover:text-gray-400">Collaborators</a> -->
     </div>
@@ -28,7 +29,7 @@
 </nav>
 
 <!-- Main Content -->
-<main class="min-h-screen bg-brown-50">
+<main class="min-h-screen bg-white">
   <slot />
 </main>
 

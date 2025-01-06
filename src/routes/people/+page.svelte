@@ -6,37 +6,55 @@
   let { people } = data;
 </script>
 
-{#if people}
-<div class="grid grid-cols-1 max-w-5xl mx-auto sm:grid-cols-2 md:grid-cols-4 md:gap-4 gap-y-8 pt-5 sm:p-5 pb-10">
+<div class="max-w-5xl mx-auto">
+  <div class="max-w-5xl mx-auto pt-5 px-5">
+    <h1 class="text-2xl font-bold text-gray-900 mb-4 text-center">People</h1>
+  </div>
+  {#if people}
+<div class="grid grid-cols-1 max-w-5xl mx-auto sm:grid-cols-2 md:grid-cols-4 md:gap-4 gap-y-8 sm:p-5 pb-10">
   {#each people as person (person.slug)}
-      <a href={`/people/${person.slug}`} class="card hover:shadow-lg transition-shadow relative mx-5 md:mx-0">
-        <h3 class="text-lg font-bold mt-4 text-maroon">{person.name}</h3>
-        <div class="role text-md text-brown pb-3">{@html person.role}</div>
-        <img src={person.photo} alt={person.name} class="photo w-full md:h-56 object-cover" />
-        <div class="song-info flex items-center justify-center bg-pink-100 p-5">
+      <a href={`/people/${person.slug}`} class="card shadow-md rounded mx-5 md:mx-0">
+        <div class="bg-slate-200 h-64 overflow-hidden">
+          <img src={person.photo} alt={person.name} class="object-cover h-full mx-auto" />
+        </div>
+        <h3 class="text-lg mt-4 font-semibold ">{person.name}</h3>
+        <div class="role text-md pb-3">{@html person.role}</div>
+        <!-- <div class="song-info flex items-center justify-center bg-aruvupink p-5">
           <Fa icon={faMusic} class="w-4 h-4 text-gray-600" />
           <span class="ml-2 text-xs text-gray-600">{@html person.song}</span>
-        </div>      
+        </div>       -->
       </a>
     {/each}
   </div>
 {:else}
   <p>No people data available.</p>
 {/if}
+</div>
 
 <style>
   .card {
     position: relative;
-    border: 1px solid #e0e0e0;
     border-radius: 8px;
     background-color: #fff;
     text-align: center;
     padding: 0.5rem;
     overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .card:hover{
+    transform: scale(1.02);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  img {
+    filter: grayscale(100%);
+    transition: filter 0.3s ease;
   }
 
   .photo {
     max-width: 100%;
+    filter: grayscale(100%);
     object-fit: cover;
   }
 </style>

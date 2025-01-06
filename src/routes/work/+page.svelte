@@ -5,42 +5,40 @@
 </script>
 
 <div class="max-w-5xl mx-auto pt-5 px-5">
-  <h1 class="text-4xl pb-5">Work Packages</h1>
-  <p>
+  <h1 class="text-2xl font-bold text-gray-900 mb-4 text-center">Work Packages</h1>
+  <!-- <p>
     We have more than a decade’s collective work of actively engaging with
     grassroots communities and actors, through creative and critical place-based
     approaches. Through this learning experience, we formulate the following
     Work Packages for Aruvu, aligned with its guiding objectives.
-  </p>
+  </p> -->
 </div>
 
 {#if work}
   <div
-    class="grid grid-cols-1 max-w-5xl mx-auto sm:grid-cols-2 md:grid-cols-4 md:gap-4 gap-y-8 pt-5 sm:p-5 pb-10"
+    class="grid p-5 grid-cols-1 max-w-5xl mx-auto sm:grid-cols-2 md:grid-cols-2 md:gap-4 gap-y-8 pt-5 sm:p-5 pb-10"
   >
     {#each work as packages (packages.slug)}
       <a
         href={`/work/${packages.slug}`}
-        class="card hover:shadow-lg transition-shadow relative mx-5 md:mx-0"
+        class="flex flex-row items-center bg-white shadow-md rounded overflow-hidden max-h-48"
       >
-        <div class="flex flex-col h-full">
-          <div class="flex-1 mt-4">
-            <h3 class="text-md font-bold">{packages.name}</h3>
-          </div>
+        <!-- Image -->
+        <div class="w-1/3 md:w-1/4">
           <img
             src={packages.cover}
             alt={packages.name}
-            class="photo w-full md:h-52 object-cover my-3"
+            class="w-full h-auto object-cover grayscale"
           />
-          <div class="mt-auto">
-            <!-- Ensures the button stays at the bottom -->
-            <a href={"work".concat("/", packages.slug)}>
-              <button
-                class="bg-maroon text-white font-semibold w-full h-12 rounded shadow hover:bg-red-700 transition duration-200"
-                >Know More</button
-              >
-            </a>
-          </div>
+        </div>
+
+        <!-- Text Content -->
+        <div
+          class="w-2/3 md:w-3/4 flex p-6"
+        >
+          <h3 class="text-xl font-semibold text-left">
+            {packages.name}
+          </h3>
         </div>
       </a>
     {/each}
@@ -50,24 +48,23 @@
 {/if}
 
 <style>
-  .work-grid {
-    display: grid;
-    /* grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); */
-    gap: 16px;
+  a {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
   }
 
-  .card {
-    position: relative;
-    border: 1px solid #e0e0e0;
-    border-radius: 8px;
-    background-color: #fff;
-    text-align: center;
-    padding: 0.5rem;
-    overflow: hidden;
+  a:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
   }
 
-  .photo {
-    max-width: 100%;
-    object-fit: cover;
+  /* Apply grayscale filter for images */
+  img {
+    filter: grayscale(100%);
+    transition: filter 0.3s ease;
+  }
+
+  /* Restore color on hover */
+  a:hover img {
+    filter: grayscale(50%);
   }
 </style>

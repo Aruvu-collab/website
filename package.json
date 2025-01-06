@@ -3,9 +3,9 @@
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
-		"dev": "vite dev",
-		"build": "vite build",
-		"preview": "vite preview",
+		"dev": "tinacms dev -c \"vite dev\"",
+		"build": "tinacms build && vite build",
+		"preview": "tinacms build && vite preview",
 		"test": "playwright test"
 	},
 	"devDependencies": {

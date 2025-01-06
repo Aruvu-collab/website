@@ -1,14 +1,186 @@
 people:
-  - name: Pink
-    photo: /IMG_20241017_143547757.jpg
-    slug: pink
-    song: Who let the dogs inside
+  - name: Supriya Nandgouli
+    photo: /supriya.png
+    slug: supriya-nandgouli
+    role: Fellow  Community Led Action
     bio: |
-      Woof
+      A dedicated and community-focused
+
+      researcher, educator, and advocacy
+
+      practitioner, with a strong
+
+      commitment to empowering
+
+      women, especially within
+
+      underrepresented communities. My
+
+      work centers around teaching,
+
+      designing, cultural preservation,
+
+      particularly for local communities in
+
+      Bidar and Kalyan Karnataka.
+  - name: Vidya HP
+    photo: /vidya (Copy).png
+    slug: vidya-hp
+    role: Junior Fellow  Community Led Action
+    bio: |
+      Working with the community and
+
+      people was something that always
+
+      interested me. My interest and
+
+      dream blossomed when I selected
+
+      social work as my academic study.
+
+      Since then, I have started working
+
+      with marginalized sections of the
+
+      community, particularly with
+
+      women, tribal people, and children.
+
+      Having become a professional
+
+      social worker, I have remained
+
+      committed and dedicated to serving the community in various
+
+      sectors, including community
+
+      health, juvenile justice, and
+
+      protections. Additionally, I have
+
+      been involved in rescue missions of
+
+      trafficking, prostitution, and child
+
+      labor.
+  - name: Vinay Malge
+    photo: /vinay.png
+    slug: vinay-malge
+    role: Maintainer
+    bio: |
+      My work draws from more than 12
+
+      years of experience as a Social
+
+      worker, communication skills trainer,
+
+      and public pedagogy practitioner
+
+      across various aspects in Bidar city
+
+      and the district.
+
+      Work
+
+      Experience
+
+      I have co-founded a Volunteer-
+
+      based NGO in Bidar, Team YUVAA,
+
+      that won the prestigious Karnataka
+
+      Rajyotsava Award in 2016.
+
+      My interest in Communication skill
+
+      training in corporate environments
+
+      and in coaching centres has enabled
+
+      many youngsters to become critical
+
+      thinkers and communicators.
+
+      I have voluntarily supported the
+
+      initiation, planning, execution and
+
+      monitoring of several Public works
+
+      in Bidar, mainly around the issue of
+
+      water bodies and restoration of the
+
+      Historically important Karez system
+
+      in Naubad (Bidar), to mention a few.
+
+      My engagement as a public
+
+      pedagogy practitioner has led to
+
+      collaborations with institutes such
+
+      as Srishti Manipal Institute of Art,
+
+      Design & Technology (Bangalore),
+
+      Govt First Grade degree College
+
+      (Bidar & Humnabad), CEPT
+
+      Ahmedabad and University at
+
+      Buffalo (New York).
+
+      Apart from these my work has
+
+      helped to establish a strong network
+
+      that includes writers, scholars,
+
+      researchers, craftsmen, folk artists,
+
+      activists, politicians, journalists,
+
+      government officials and so on
+
+      across Bidar District and the
+
+      surrounding districts in Hyderabad-
+
+      Karnataka Region.
+  - name: Shreyas Srivatsa
+    photo: /image 3.png
+    slug: shreyas-srivatsa
+    role: Senior Fellow and Partner
+    bio: >
+      I’m co-creator and director of Living Labs Network & Forum, collaborating
+      and learning with communities and institutions in the Dakkhani Region
+      (Hyderabad-Karnataka region) in India. I share the dream with my fellow
+      co-creators at LLNaF, Team YUVAA, Aruvu Collaboratory, and Agamashaala to
+      build an institution that cares for the place, communities, and its
+      people. I have been engaging with the place, network, and institution
+      since 2016 as a learner, mentor, resource person, and network coordinator.
+      I co-learn with learners who are keen to learn about place-based research
+      and reimagine community-academia collaborations through practice-based
+      research. My work draws from more than seventeen years of experience as a
+      researcher, practitioner, and academic. I work closely with Aruvu
+      Collaboratory, Agamshaala, and Team YUVAA, and I’m a faculty at Srishti
+      Manipal Institute of Art, Design and Technology, Bangalore. The walled
+      city of Bidar, Khanqah and Dargah culture, [Restoration and conservation
+      of Karez](/bff32b5638034ce3a3f837cb1d3e4fd8), Dasoha, and Agrarian
+      knowledge production & labour by women are a few of the micro contexts
+      that I’m interested to engage with. Qualified as an architect with an
+      advanced training in areas related to human settlements, my work is at the
+      intersection of the fields of settlement studies; southern urbanism;
+      critical heritage studies; climate change and adaptation; urban
+      livelihoods; and development studies.
   - name: Naveen Bagalkot
-    photo: /Naveen_Profile.jpg
+    photo: /Subject 1.png
     slug: naveen-bagalkot
-    song: 'Maadeva - Sanjith Hegde, Charan Raj, Hanumankind'
+    role: Senior Fellow and Partner
     bio: >
       I am a design researcher, educator, and facilitator broadly working at the
       intersections of human-computer interaction (HCI) design, participatory
@@ -39,36 +211,10 @@ people:
       Design and Technology, Bagalkot has designed, and manages and teaches
       across undergraduate and graduate programs in Human Centered Design,
       Participatory Design and Interaction Design.
-  - name: Shreyas Srivatsa
-    photo: /IMG_3477.jpg.png
-    slug: shreyas-srivatsa
-    song: 'Maadeva - Sanjith Hegde, Charan Raj, Hanumankind'
-    bio: >
-      I’m co-creator and director of Living Labs Network & Forum, collaborating
-      and learning with communities and institutions in the Dakkhani Region
-      (Hyderabad-Karnataka region) in India. I share the dream with my fellow
-      co-creators at LLNaF, Team YUVAA, Aruvu Collaboratory, and Agamashaala to
-      build an institution that cares for the place, communities, and its
-      people. I have been engaging with the place, network, and institution
-      since 2016 as a learner, mentor, resource person, and network coordinator.
-      I co-learn with learners who are keen to learn about place-based research
-      and reimagine community-academia collaborations through practice-based
-      research. My work draws from more than seventeen years of experience as a
-      researcher, practitioner, and academic. I work closely with Aruvu
-      Collaboratory, Agamshaala, and Team YUVAA, and I’m a faculty at Srishti
-      Manipal Institute of Art, Design and Technology, Bangalore. The walled
-      city of Bidar, Khanqah and Dargah culture, [Restoration and conservation
-      of Karez](/bff32b5638034ce3a3f837cb1d3e4fd8), Dasoha, and Agrarian
-      knowledge production & labour by women are a few of the micro contexts
-      that I’m interested to engage with. Qualified as an architect with an
-      advanced training in areas related to human settlements, my work is at the
-      intersection of the fields of settlement studies; southern urbanism;
-      critical heritage studies; climate change and adaptation; urban
-      livelihoods; and development studies.
   - name: Sangeetha Rajapandian
-    photo: /WhatsApp Image 2024-05-03 at 09.37.44.jpeg.png
+    photo: /image 7.png
     slug: sangeetha-rajapandian
-    song: 'Maadeva - Sanjith Hegde, Charan Raj, Hanumankind'
+    role: Fellow Community Led Action
     bio: >
       I am a Social Science Researcher with extensive experience in work with
       local, grassroots and rural communities. I was part of the household
@@ -92,9 +238,8 @@ people:
       Community led research and action which are place-based and explore
       different methodologies in multi disciplinary action research.
   - name: Micah Alex
-    photo: /WhatsApp Image 2024-05-03 at 10.42.15.jpeg
+    photo: /canvas 1.png
     slug: micah-alex
-    song: 'Maadeva - Sanjith Hegde, Charan Raj, Hanumankind'
     bio: >
       I engage with LLNaF through small makings, small conversations, and small
       observations. I write, design, test, illustrate, and study in different

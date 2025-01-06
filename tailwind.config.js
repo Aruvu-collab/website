@@ -5,7 +5,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        maroon: '#800000',
+        aruvupink: '#FF94AC',
+        aruvulightpink: '#FDD0DA',
         brown: {
           50: '#f5f5f4',
           200: '#c6a58d',
