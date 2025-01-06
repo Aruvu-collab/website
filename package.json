@@ -23,6 +23,7 @@
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^6.6.0",
 		"@fortawesome/free-solid-svg-icons": "^6.6.0",
+		"@sveltejs/adapter-cloudflare": "^5.0.0",
 		"@sveltejs/adapter-static": "^3.0.8",
 		"dompurify": "^3.1.7",
 		"marked": "^14.1.2",
@@ -30,6 +31,7 @@
 		"svelte-hero-icons": "^5.2.0",
 		"svelte-markdown": "^0.4.1",
 		"tinacms": "^2.2.9",
+		"wrangler": "^3.99.0",
 		"yaml": "^2.5.1"
 	}
 }
