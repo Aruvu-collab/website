@@ -1,182 +1,97 @@
 people:
-  - name: Supriya Nandgouli
-    photo: /supriya.png
-    slug: supriya-nandgouli
-    role: Fellow  Community Led Action
-    bio: |
-      A dedicated and community-focused
-
-      researcher, educator, and advocacy
-
-      practitioner, with a strong
-
-      commitment to empowering
-
-      women, especially within
-
-      underrepresented communities. My
-
-      work centers around teaching,
-
-      designing, cultural preservation,
-
-      particularly for local communities in
-
-      Bidar and Kalyan Karnataka.
-  - name: Vidya HP
-    photo: /vidya (Copy).png
-    slug: vidya-hp
-    role: Junior Fellow  Community Led Action
-    bio: |
-      Working with the community and
-
-      people was something that always
-
-      interested me. My interest and
-
-      dream blossomed when I selected
-
-      social work as my academic study.
-
-      Since then, I have started working
-
-      with marginalized sections of the
-
-      community, particularly with
-
-      women, tribal people, and children.
-
-      Having become a professional
-
-      social worker, I have remained
-
-      committed and dedicated to serving the community in various
-
-      sectors, including community
-
-      health, juvenile justice, and
-
-      protections. Additionally, I have
-
-      been involved in rescue missions of
-
-      trafficking, prostitution, and child
-
-      labor.
-  - name: Vinay Malge
-    photo: /vinay.png
-    slug: vinay-malge
-    role: Maintainer
-    bio: |
-      My work draws from more than 12
-
-      years of experience as a Social
-
-      worker, communication skills trainer,
-
-      and public pedagogy practitioner
-
-      across various aspects in Bidar city
-
-      and the district.
-
-      Work
-
-      Experience
-
-      I have co-founded a Volunteer-
-
-      based NGO in Bidar, Team YUVAA,
-
-      that won the prestigious Karnataka
-
-      Rajyotsava Award in 2016.
-
-      My interest in Communication skill
-
-      training in corporate environments
-
-      and in coaching centres has enabled
-
-      many youngsters to become critical
-
-      thinkers and communicators.
-
-      I have voluntarily supported the
-
-      initiation, planning, execution and
-
-      monitoring of several Public works
-
-      in Bidar, mainly around the issue of
-
-      water bodies and restoration of the
-
-      Historically important Karez system
-
-      in Naubad (Bidar), to mention a few.
-
-      My engagement as a public
-
-      pedagogy practitioner has led to
-
-      collaborations with institutes such
-
-      as Srishti Manipal Institute of Art,
-
-      Design & Technology (Bangalore),
-
-      Govt First Grade degree College
-
-      (Bidar & Humnabad), CEPT
-
-      Ahmedabad and University at
-
-      Buffalo (New York).
-
-      Apart from these my work has
-
-      helped to establish a strong network
-
-      that includes writers, scholars,
-
-      researchers, craftsmen, folk artists,
-
-      activists, politicians, journalists,
-
-      government officials and so on
-
-      across Bidar District and the
-
-      surrounding districts in Hyderabad-
-
-      Karnataka Region.
-  - name: Shreyas Srivatsa
-    photo: /image 3.png
-    slug: shreyas-srivatsa
-    role: Senior Fellow and Partner
+  - name: Abhishek Patil
+    photo: /abhishek.png
+    slug: abhshek-patil
+    role: Collaborator Community Research
     bio: >
-      I’m co-creator and director of Living Labs Network & Forum, collaborating
-      and learning with communities and institutions in the Dakkhani Region
-      (Hyderabad-Karnataka region) in India. I share the dream with my fellow
-      co-creators at LLNaF, Team YUVAA, Aruvu Collaboratory, and Agamashaala to
-      build an institution that cares for the place, communities, and its
-      people. I have been engaging with the place, network, and institution
-      since 2016 as a learner, mentor, resource person, and network coordinator.
-      I co-learn with learners who are keen to learn about place-based research
-      and reimagine community-academia collaborations through practice-based
-      research. My work draws from more than seventeen years of experience as a
-      researcher, practitioner, and academic. I work closely with Aruvu
-      Collaboratory, Agamshaala, and Team YUVAA, and I’m a faculty at Srishti
-      Manipal Institute of Art, Design and Technology, Bangalore. The walled
-      city of Bidar, Khanqah and Dargah culture, [Restoration and conservation
-      of Karez](/bff32b5638034ce3a3f837cb1d3e4fd8), Dasoha, and Agrarian
-      knowledge production & labour by women are a few of the micro contexts
-      that I’m interested to engage with. Qualified as an architect with an
-      advanced training in areas related to human settlements, my work is at the
-      intersection of the fields of settlement studies; southern urbanism;
-      critical heritage studies; climate change and adaptation; urban
-      livelihoods; and development studies.
+      I am an aspiring Environmental Anthropologist with specific research
+      interests in conservation, sustainability, political ecology of offset
+      programs, social and environmental justice. I work in the intersection of
+      culture, society, and environment. My experience as a researcher is mainly
+      associated with socio-ecological interlinkages and socio-cultural studies
+      of communities in India. I also have a brief experience of leading
+      projects with a development organization in Rwanda. Currently, I am
+      working with Dakshin Foundation on themes related to Blue Economy, Blue
+      Justice, and Blue Carbon. With experience in research and grassroots
+      engagement with community-based projects, I also bring a combination of
+      technical expertise, program management skills, and a deep understanding
+      of community dynamics.
+  - name: Abhiram  Jois
+    photo: /abhiram.png
+    slug: abhiram-jois
+    role: Junior Fellow  Creative Technologist
+    bio: >
+      Manic mediocre maker and alliteration admirer who finds himself in the
+      redness of command line error logs, dark blueness of hyperlinks, yellow
+      residue of food in the rim of a bowl and brown dog hair on clothes. I
+      enjoy code, data, art, tech, colours, stories, films, books and long
+      conversations. Maneli ellarnu keldhe anthe heLi
+  - name: Adhavan Sivaraj
+    photo: /adhavan-removebg-preview.png
+    slug: adhavan-sivaraj
+    role: Junior Fellow  Research and Development
+    bio: >
+      My research engages with textual and geospatial ‘data’ for public-
+      spirited needs. This may take the form of archiving, designing digital
+      interactions with the archives and developing data-methods to make these
+      archives. My engagements with the urban through SafeYelli have largely
+      driven my geospatial and civic research interests. They have grown to take
+      political forms and positions.
+  - name: 'Archit Dhiman '
+    photo: /archit.png
+    slug: archit-dhiman
+    role: Junior Fellow  Visual Media Artist
+    bio: >
+      Interdependent and undisciplinary, I wants to design playgrounds,
+      festivals and fictional world maps.
+
+
+      With an academic background in design, my practice revolves around making
+      environments, technologies or mediums for information, experiences and
+      sometimes, dreams. I am deeply encouraged and inspired by learning ways of
+      designing and worldmaking outside institutional spaces and cultural
+      hegemonies. As a professional, I deeply value autonomous and community-led
+      spaces of practice.
+
+
+      I am interested in developing participative, distributed and collaborative
+      ways of practicing design, building tools and resources that support
+      open-ended and undisciplinary processes and contributing to networks and
+      communities that help sustain such practices. Education
+  - name: Eshwari
+    photo: /eshwari.png
+    slug: eshwari
+    role: Junior Fellow  Creative Writing andPublic Engagement
+    bio: >
+      I'm a word wrangler in an attempt to make sense of narratives — some days
+      writing to stay grounded, other days to get wonderfully lost. A happy chai
+      drinker and part-time blog sleuth, I’m curious about films and women.
+      Drawn to work around education and community engagement, I believe
+      storytelling can breathe life into both. When I'm not putting words
+      together, I'm looking for cats.
+  - name: 'Harshawardhan  Rathod '
+    photo: /harsha.png
+    role: Junior Fellow Community Led Action
+    bio: >
+      My work draws from four years of experience as a researcher, practitioner
+      and educator across multiple disciplines carrying out studies based in
+      various cities in Karnataka. Qualified as an agriculturist with an
+      advanced training in areas related to soil science and agriculture, my
+      work is at the intersections of - soil; water; farmer practices; climate
+      change and adaptation; participatory research; and case studies.
+  - name: Micah Alex
+    photo: /canvas 1.png
+    slug: micah-alex
+    bio: >
+      I engage with LLNaF through small makings, small conversations, and small
+      observations. I write, design, test, illustrate, and study in different
+      forms which have evolved through the years. Creativity and Generosity
+      attract my attention for work and interests. I have been engaging with LLN
+      since 2019 as a Network Coordinator, Collective hire, and Learner.
+      Dakkhani Urdu, Naubad Karez, Osman Ganj market, Bhooteru, women Singers at
+      Multan Pasha, and Police History are a few of the micro contexts that I am
+      interested to engage with. I also work closely associated with Aruvu
+      Collaboratory, Design Beku, Agamashaala, Janastu.
   - name: Naveen Bagalkot
     photo: /Subject 1.png
     slug: naveen-bagalkot
@@ -237,16 +152,91 @@ people:
       As a fellow at Aruvu Collaboratory, I am very much interested to work on
       Community led research and action which are place-based and explore
       different methodologies in multi disciplinary action research.
-  - name: Micah Alex
-    photo: /canvas 1.png
-    slug: micah-alex
+  - name: Shreyas Srivatsa
+    photo: /image 3.png
+    slug: shreyas-srivatsa
+    role: Senior Fellow and Partner
     bio: >
-      I engage with LLNaF through small makings, small conversations, and small
-      observations. I write, design, test, illustrate, and study in different
-      forms which have evolved through the years. Creativity and Generosity
-      attract my attention for work and interests. I have been engaging with LLN
-      since 2019 as a Network Coordinator, Collective hire, and Learner.
-      Dakkhani Urdu, Naubad Karez, Osman Ganj market, Bhooteru, women Singers at
-      Multan Pasha, and Police History are a few of the micro contexts that I am
-      interested to engage with. I also work closely associated with Aruvu
-      Collaboratory, Design Beku, Agamashaala, Janastu.
+      I’m co-creator and director of Living Labs Network & Forum, collaborating
+      and learning with communities and institutions in the Dakkhani Region
+      (Hyderabad-Karnataka region) in India. I share the dream with my fellow
+      co-creators at LLNaF, Team YUVAA, Aruvu Collaboratory, and Agamashaala to
+      build an institution that cares for the place, communities, and its
+      people. I have been engaging with the place, network, and institution
+      since 2016 as a learner, mentor, resource person, and network coordinator.
+      I co-learn with learners who are keen to learn about place-based research
+      and reimagine community-academia collaborations through practice-based
+      research. My work draws from more than seventeen years of experience as a
+      researcher, practitioner, and academic. I work closely with Aruvu
+      Collaboratory, Agamshaala, and Team YUVAA, and I’m a faculty at Srishti
+      Manipal Institute of Art, Design and Technology, Bangalore. The walled
+      city of Bidar, Khanqah and Dargah culture, [Restoration and conservation
+      of Karez](/bff32b5638034ce3a3f837cb1d3e4fd8), Dasoha, and Agrarian
+      knowledge production & labour by women are a few of the micro contexts
+      that I’m interested to engage with. Qualified as an architect with an
+      advanced training in areas related to human settlements, my work is at the
+      intersection of the fields of settlement studies; southern urbanism;
+      critical heritage studies; climate change and adaptation; urban
+      livelihoods; and development studies.
+  - name: Shruthi Naik
+    photo: /shruthi.png
+    slug: shruthi-naik
+    role: Junior Fellow  Community Led Action
+    bio: >
+      I have gained experience across multiple organizations. At Grameena Seva
+      Trust, I worked for one year, managing office books, forming groups,
+      writing reports for events and meetings, and creating awareness about the
+      trust in various locations. This role gave me a strong foundation in
+      administrative tasks and community engagement. I then worked for 1.5 years
+      at a Cooperative Society, where I focused on group formation, preparing
+      loan documents, maintaining group books, and supporting branch operations.
+      This experience helped me develop an understanding of financial operations
+      and cooperative management.
+  - name: Supriya Nandgouli
+    photo: /supriya.png
+    slug: supriya-nandgouli
+    role: Fellow  Community Led Action
+    bio: >
+      A dedicated and community-focused researcher, educator, and advocacy
+      practitioner, with a strong commitment to empowering women, especially
+      within underrepresented communities. My work centers around teaching,
+      designing, cultural preservation, particularly for local communities in
+      Bidar and Kalyan Karnataka.
+  - name: Vidya HP
+    photo: /vidya (Copy).png
+    slug: vidya-hp
+    role: Junior Fellow  Community Led Action
+    bio: >
+      Working with the community and people was something that always interested
+      me. My interest and dream blossomed when I selected social work as my
+      academic study. Since then, I have started working with marginalized
+      sections of the community, particularly with women, tribal people, and
+      children. Having become a professional social worker, I have remained
+      committed and dedicated to serving the community in various sectors,
+      including community health, juvenile justice, and protections.
+      Additionally, I have been involved in rescue missions of trafficking,
+      prostitution, and child labor.
+  - name: Vinay Malge
+    photo: /vinay.png
+    slug: vinay-malge
+    role: Maintainer
+    bio: >
+      My work draws from more than 12 years of experience as a Social worker,
+      communication skills trainer, and public pedagogy practitioner across
+      various aspects in Bidar city and the district. Work Experience I have
+      co-founded a Volunteer- based NGO in Bidar, Team YUVAA, that won the
+      prestigious Karnataka Rajyotsava Award in 2016. My interest in
+      Communication skill training in corporate environments and in coaching
+      centres has enabled many youngsters to become critical thinkers and
+      communicators. I have voluntarily supported the initiation, planning,
+      execution and monitoring of several Public works in Bidar, mainly around
+      the issue of water bodies and restoration of the Historically important
+      Karez system in Naubad (Bidar), to mention a few. My engagement as a
+      public pedagogy practitioner has led to collaborations with institutes
+      such as Srishti Manipal Institute of Art, Design & Technology (Bangalore),
+      Govt First Grade degree College (Bidar & Humnabad), CEPT Ahmedabad and
+      University at Buffalo (New York). Apart from these my work has helped to
+      establish a strong network that includes writers, scholars, researchers,
+      craftsmen, folk artists, activists, politicians, journalists, government
+      officials and so on across Bidar District and the surrounding districts in
+      Hyderabad- Karnataka Region.
