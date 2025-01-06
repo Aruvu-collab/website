@@ -23,6 +23,7 @@
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^6.6.0",
 		"@fortawesome/free-solid-svg-icons": "^6.6.0",
+		"@sveltejs/adapter-static": "^3.0.8",
 		"dompurify": "^3.1.7",
 		"marked": "^14.1.2",
 		"svelte-fa": "^4.0.3",
