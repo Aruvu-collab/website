@@ -7,7 +7,7 @@ const config = {
     adapter: adapter({
       routes: {
         include: ["/*"],
-        exclude: ["<all>"],
+        exclude: ["/static/**", "/"],
       },
       platformProxy: {
         configPath: "wrangler.toml",
