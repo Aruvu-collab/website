@@ -1,5 +1,4 @@
 import work from '$lib/work/index.yaml?raw';
-import { type } from 'os';
 import * as YAML from 'yaml';
 
 export const load = ({ params }) => {
