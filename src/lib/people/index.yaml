@@ -1,4 +1,14 @@
 people:
+  - name: Abhiram  Jois
+    photo: /abhiram.png
+    slug: abhiram-jois
+    role: Junior Fellow  Creative Technologist
+    bio: >
+      Manic mediocre maker and alliteration admirer who finds himself in the
+      redness of command line error logs, dark blueness of hyperlinks, yellow
+      residue of food in the rim of a bowl and brown dog hair on clothes. I
+      enjoy code, data, art, tech, colours, stories, films, books and long
+      conversations. Maneli ellarnu keldhe anthe heLi
   - name: Abhishek Patil
     photo: /abhishek.png
     slug: abhshek-patil
@@ -16,16 +26,6 @@ people:
       engagement with community-based projects, I also bring a combination of
       technical expertise, program management skills, and a deep understanding
       of community dynamics.
-  - name: Abhiram  Jois
-    photo: /abhiram.png
-    slug: abhiram-jois
-    role: Junior Fellow  Creative Technologist
-    bio: >
-      Manic mediocre maker and alliteration admirer who finds himself in the
-      redness of command line error logs, dark blueness of hyperlinks, yellow
-      residue of food in the rim of a bowl and brown dog hair on clothes. I
-      enjoy code, data, art, tech, colours, stories, films, books and long
-      conversations. Maneli ellarnu keldhe anthe heLi
   - name: Adhavan Sivaraj
     photo: /adhavan-removebg-preview.png
     slug: adhavan-sivaraj
@@ -71,6 +71,7 @@ people:
       together, I'm looking for cats.
   - name: 'Harshawardhan  Rathod '
     photo: /harsha.png
+    slug: harshawardhan-rathod
     role: Junior Fellow Community Led Action
     bio: >
       My work draws from four years of experience as a researcher, practitioner
