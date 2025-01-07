@@ -1,6 +1,16 @@
 people:
+  - name: Abhiram  Jois
+    photo: /abhiram.webp
+    slug: abhiram-jois
+    role: Junior Fellow  Creative Technologist
+    bio: >
+      Manic mediocre maker and alliteration admirer who finds himself in the
+      redness of command line error logs, dark blueness of hyperlinks, yellow
+      residue of food in the rim of a bowl and brown dog hair on clothes. I
+      enjoy code, data, art, tech, colours, stories, films, books and long
+      conversations. Maneli ellarnu keldhe anthe heLi
   - name: Abhishek Patil
-    photo: /abhishek.png
+    photo: /abhishek.webp
     slug: abhshek-patil
     role: Collaborator Community Research
     bio: >
@@ -16,18 +26,8 @@ people:
       engagement with community-based projects, I also bring a combination of
       technical expertise, program management skills, and a deep understanding
       of community dynamics.
-  - name: Abhiram  Jois
-    photo: /abhiram.png
-    slug: abhiram-jois
-    role: Junior Fellow  Creative Technologist
-    bio: >
-      Manic mediocre maker and alliteration admirer who finds himself in the
-      redness of command line error logs, dark blueness of hyperlinks, yellow
-      residue of food in the rim of a bowl and brown dog hair on clothes. I
-      enjoy code, data, art, tech, colours, stories, films, books and long
-      conversations. Maneli ellarnu keldhe anthe heLi
   - name: Adhavan Sivaraj
-    photo: /adhavan-removebg-preview.png
+    photo: /adhavan.webp
     slug: adhavan-sivaraj
     role: Junior Fellow  Research and Development
     bio: >
@@ -38,7 +38,7 @@ people:
       driven my geospatial and civic research interests. They have grown to take
       political forms and positions.
   - name: 'Archit Dhiman '
-    photo: /archit.png
+    photo: /archit.webp
     slug: archit-dhiman
     role: Junior Fellow  Visual Media Artist
     bio: >
@@ -59,7 +59,7 @@ people:
       open-ended and undisciplinary processes and contributing to networks and
       communities that help sustain such practices. Education
   - name: Eshwari
-    photo: /eshwari.png
+    photo: /eshwari.webp
     slug: eshwari
     role: Junior Fellow  Creative Writing andPublic Engagement
     bio: >
@@ -70,7 +70,8 @@ people:
       storytelling can breathe life into both. When I'm not putting words
       together, I'm looking for cats.
   - name: 'Harshawardhan  Rathod '
-    photo: /harsha.png
+    photo: /harsha.webp
+    slug: harshawardhan-rathod
     role: Junior Fellow Community Led Action
     bio: >
       My work draws from four years of experience as a researcher, practitioner
@@ -80,8 +81,9 @@ people:
       work is at the intersections of - soil; water; farmer practices; climate
       change and adaptation; participatory research; and case studies.
   - name: Micah Alex
-    photo: /canvas 1.png
+    photo: /micah.webp
     slug: micah-alex
+    role: Fellow Research and Development
     bio: >
       I engage with LLNaF through small makings, small conversations, and small
       observations. I write, design, test, illustrate, and study in different
@@ -93,7 +95,7 @@ people:
       interested to engage with. I also work closely associated with Aruvu
       Collaboratory, Design Beku, Agamashaala, Janastu.
   - name: Naveen Bagalkot
-    photo: /Subject 1.png
+    photo: /naveen.webp
     slug: naveen-bagalkot
     role: Senior Fellow and Partner
     bio: >
@@ -127,7 +129,7 @@ people:
       across undergraduate and graduate programs in Human Centered Design,
       Participatory Design and Interaction Design.
   - name: Sangeetha Rajapandian
-    photo: /image 7.png
+    photo: /sangeetha.webp
     slug: sangeetha-rajapandian
     role: Fellow Community Led Action
     bio: >
@@ -153,7 +155,7 @@ people:
       Community led research and action which are place-based and explore
       different methodologies in multi disciplinary action research.
   - name: Shreyas Srivatsa
-    photo: /image 3.png
+    photo: /shreyas.webp
     slug: shreyas-srivatsa
     role: Senior Fellow and Partner
     bio: >
@@ -179,7 +181,7 @@ people:
       critical heritage studies; climate change and adaptation; urban
       livelihoods; and development studies.
   - name: Shruthi Naik
-    photo: /shruthi.png
+    photo: /shruthi.webp
     slug: shruthi-naik
     role: Junior Fellow  Community Led Action
     bio: >
@@ -193,7 +195,7 @@ people:
       This experience helped me develop an understanding of financial operations
       and cooperative management.
   - name: Supriya Nandgouli
-    photo: /supriya.png
+    photo: /supriya.webp
     slug: supriya-nandgouli
     role: Fellow  Community Led Action
     bio: >
@@ -203,7 +205,7 @@ people:
       designing, cultural preservation, particularly for local communities in
       Bidar and Kalyan Karnataka.
   - name: Vidya HP
-    photo: /vidya (Copy).png
+    photo: /vidya.webp
     slug: vidya-hp
     role: Junior Fellow  Community Led Action
     bio: >
@@ -217,7 +219,7 @@ people:
       Additionally, I have been involved in rescue missions of trafficking,
       prostitution, and child labor.
   - name: Vinay Malge
-    photo: /vinay.png
+    photo: /vinay.webp
     slug: vinay-malge
     role: Maintainer
     bio: >

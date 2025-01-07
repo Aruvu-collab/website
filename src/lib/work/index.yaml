@@ -1,19 +1,19 @@
 work:
   - name: 'Incubation: Local Enterprises'
-    cover: /image 10.png
+    cover: /incubation-cover.webp
     desc: "> \U0001F4CE Research should, first and foremost benefit the communities whose knowledges we engage with is one of our founding principles.\n\nOur work with communities has made us think about if and how we could leverage our larger networks and resources to enable and support local enterprises.\n\nIn Channapatna through the work of co-building the Channapatna Health Library, the women began to imagine and experiment with the idea of making home-made nutritious food and sell it to the members of their communities at an affordable price, to increase their income and find economic stability. We have been working with them on this idea since August 2023, and are on the verge of formalising it as a Women-led producer organisation.\n\nWe have learned from working with and understanding many local enterprises and organisations through our work across North Karnataka, Coastal Karnataka and Tamil Nadu, and our support includes:\n\n* Logistics & Back-end Support\n* Enabling Policy making\n* Market study\n* Design support and Production\n* Seed Funding\n* Financial Planning\n"
     images:
-      - url: /WhatsApp Image 2024-05-03 at 16.48.16.jpeg
+      - url: /incubation-image-laddoo.webp
         caption: >-
           Millet Laddus prepared and sold by women from ‘Manesiri’ in
           Channapatna
-      - url: /WhatsApp Image 2024-05-03 at 16.48.15.jpeg.png
+      - url: /incubation-image-cookies.webp
         caption: >-
           Millet cookies prepared and sold by women from ‘Manesiri’ in
           Channapatna
     slug: incubation-local-enterprises
   - name: Community Owned Infrastructures
-    cover: /image 11.png
+    cover: /community-owned-infra-cover.webp
     desc: >
       In 2019, we were part of a collaborative effort to catalyse
       [community-network as an underlying infrastructure for local archives of
@@ -33,17 +33,17 @@ work:
       capabilities of using, fixing and maintaining, while ushering in a sense
       of ownership.
     images:
-      - url: /PHOTO-2024-05-03-16-45-17.jpg.png
+      - url: /community-owned-infra-image-setup.webp
         caption: >-
           Setting up of the base-station of the Community Network at Channapatna
           Health Library, Channapatna.
-      - url: /Jabeen-Ramakka-Sarasvathi-Antenna.jpg
+      - url: /community-owned-infra-image-hn-troubleshoot.webp
         caption: >-
           Women Health Navigators of Channapatna checking out the base-station
           of the Community Network. 
     slug: community-owned-infrastructures
   - name: Community led research
-    cover: /image 9.png
+    cover: /community-led-research-cover.webp
     desc: >
       Our focus is to build deep relationships with specific communities of a
       place, which enables multiple forms of participation by the community
@@ -80,21 +80,21 @@ work:
       Panchayats in Kundapura Taluk namely Vandse, Idur Kunjnady, Hemmadi,
       Hakladi, Chittur, Aluru, and Keradi.
     images:
-      - url: /WhatsApp Image 2024-05-03 at 16.37.07.jpeg
+      - url: /community-led-research-image-women-farmers.webp
         caption: >-
           Women farmers speculating on the futures of their enterprise, in
           Pudukottai. 
-      - url: /WhatsApp Image 2024-05-03 at 16.34.59.jpeg
+      - url: /community-led-research-image-fpo.webp
         caption: >-
           Building a knowledge repository with the women working in Farmer
           Producer Organisation at Pudukottai, Tamil Nadu.
-      - url: /WhatsApp Image 2024-05-03 at 16.35.42.jpeg
+      - url: /community-led-research-image-fisher-folks.webp
         caption: >-
           Engagement on fisher folks livelihood held by local community actor at
           Kundapura, Karnataka.
     slug: community-led-research
   - name: Learning Programs & Curriculum Design
-    cover: /IMG_20190405_195653 1.png
+    cover: /learning-programs-cover.webp
     desc: >
       Enabling learning from and at a place is one of the key objectives of
       Aruvu. [Creative Urban Practice is an example.
@@ -109,7 +109,7 @@ work:
       Creative Practices, Enhancing Digital & Technical Skills & Capabilities,
       Place-based In-situ Learning Modules
     images:
-      - url: /Students Observing_HNs working_notion.jpg.png
+      - url: /learning-program-image-students.webp
         caption: >-
           Students from the Srishti Manipal Institute of Art, Design and
           Technology learning about the Health Navigators as part of their

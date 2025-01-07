@@ -11,7 +11,7 @@
   <!-- First Line: Logo Section -->
   <div class="flex items-center justify-center mb-4">
     <a href="/" data-sveltekit-reload class="text-aruvupink text-2xl font-semibold flex items-center">
-      <img src="/img/Aruvu_logo.png" alt="Logo" class="h-10 mr-3" />
+      <img src="/img/Aruvu_logo.webp" alt="Logo" class="h-10 mr-3" />
     </a>
   </div>
 

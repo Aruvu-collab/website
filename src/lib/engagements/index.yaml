@@ -1,6 +1,6 @@
 engagements:
   - name: Local Techno Futures
-    cover: /IMG20241026144434 2@2x.png
+    cover: /ltf-cover.webp
     desc: >
       The Local Techno Futures initiative is an ongoing exercise in imagining
       and rethinking the association between people, practices, and technology.
@@ -29,11 +29,11 @@ engagements:
       nurtured involvement and enable a space where learning and creativity
       flourish.
     images:
-      - url: /IMG20240930171917 2.png
+      - url: /ltf-image-illustration.webp
         caption: local-techno-futures
     slug: local-techno-futures
   - name: Samagra Arogya
-    cover: /PHOTO-2024-01-26-15-00-07 1.png
+    cover: /samagra-arogya-cover.webp
     desc: >
       A notable project within Aruvu’s scope is Samagra Arogya. It is a
       community-based research project aimed at improving health by focusing on
@@ -73,18 +73,18 @@ engagements:
       well-being, promoting nutritional health, and integrating livelihood
       opportunities into the health framework.
     images:
-      - url: /IMG-20240923-WA0006-1.jpg
+      - url: /samagra-arogya-image-group.webp
         caption: 'image from an engagement in Hara, a settlement in Kundapura'
     slug: samagra-arogya
   - name: Channapatna Health Library
-    cover: /Whatsapp-papad-listening.jpg
+    cover: /chl-cover.webp
     desc: "One of Aruvu’s milestone projects under this WP is the Channapatna Health Library (CHL). Beginning with the recruitment and training of 15 HNs, the initiative focused on building a local mesh network that connects people within the same area directly, without relying on global internet infrastructure; to facilitate the sharing of health knowledge and co-creating a Data Collection Book, which provided structured guidelines for effective data gathering and interviewing. Developed in partnership with MAYA, Design Beku, and Janastu, CHL emerged as a platform for women Health Navigators (HNs) to address crucial health issues within their communities. CHL is focused on collecting diverse community health knowledge, including traditional remedies using local herbs, practices around pregnancy and maternal health, nutrition, chronic illness management such as high-blood pressure and diabetes, and personal health journeys. HNs and their families contributed to expanding the library’s knowledge base, creating a sustainable content generation system. Since April 2024, CHL has been incubated by the Aruvu Collaboratory in partnership with Manesiri, a women-led producer organization.\_\n"
     images:
-      - url: /Screenshot_20241027_141837.png
+      - url: /chl-image-papad.webp
         caption: HNs uploading an audio to CHL
     slug: channapatna-health-library
   - name: PGSL Participatory GeoSpatial Lab
-    cover: /Screenshot_20241219_170949 2.png
+    cover: /pgsl-cover.webp
     desc: >
       The Participatory Geospatial Lab (PGSL) is a dynamic space envisioned as a
       nucleus for collaborative mapping, storytelling, and spatial discovery.
@@ -122,10 +122,10 @@ engagements:
       documentation to become a tool for political action and cultural
       preservation.
     images:
-      - url: /20241203_130043.jpg
+      - url: /pgsl-image-maps.webp
     slug: participatory-geo-spatial-lab
   - name: Manesiri (women-led producer collective)
-    cover: /PHOTO-2024-12-09-14-54-02 1.png
+    cover: /manesiri-cover.webp
     desc: >
       The Manesiri initiative emerged as a locally-led effort to address
       community health and nutritional needs while promoting collective
@@ -151,17 +151,17 @@ engagements:
       priorities, which helped shape Manesiri’s offerings, particularly
       addressing the challenge of incorporating millet into daily diets.
     images:
-      - url: /PHOTO-2024-07-11-17-59-52 2 1.png
+      - url: /manesiri-image-women.webp
     slug: manesiri
   - name: CUP (Creative Urban Practice)
-    cover: /4000-3000-max 2.png
+    cover: /cup-cover.webp
     desc: "This program has involved participants in interdisciplinary projects such as mapping ecological hotspots, crafting illustrated activity maps of grasslands, and documenting oral histories of local culinary traditions. Each of these activities combines hands-on engagement with rigorous exploration, allowing learners to develop insights about the places. For instance, one of the projects focused on mapping Bidar’s ecological and cultural landscape. Participants co-created visual and narrative resources that not only reflected the region’s rich biodiversity but also emphasised its social and cultural histories, such as traditional health practices and step well systems.\_\_\n\nOur approach is guided by four key pillars:\_\_\n\n1. Collaborative Curriculum Design\n2. Digital Learning Tools: Digital media\n3. Skill-Building for Technical\n4. Place-Based In-Situ Learning\n"
     images:
-      - url: /image 12.png
+      - url: /cup-image-with-students.webp
     slug: creatie-urban-practice
   - name: CRC (Climate Resource Center)
-    cover: /IMG_4302 1.png
+    cover: /crc-cover.webp
     desc: "Together, we have worked to integrate heritage conservation with climate resilience through projects such as the Climate Resource Center. The Climate Resource Center is a local hub to access tools and resources to tackle climate challenges through education, and collaborative solutions focused on sustainability and the mapping of step wells and lakes for water security infrastructure. CRC in Bidar District is also an action-research initiative that places everyday agricultural practices at the core of climate adaptation measures. Unlike conventional research approaches that rely laboriously on expert-led viewpoints, the CRC seeks to centre the lived experiences, observations, and practices of Bidar’s farmers. This non-digital network operates as a medium for farmers, their families, and partners to document, share, and expand their learning of farming practices and responses to climate challenges. Through this process, the project aims to inform hyper-local climate adaptation and encourage consequential, community-driven strategies.\_\_\n\nBidar is in the North Transition Zone of Karnataka. This area has laterite and black soils and receives an average rainfall of 800 to 900 mm each year. The region supports both Kharif and Rabi crops, alongside pastoralist communities who maintain livestock and create value-added products from farm produce. However, Bidar’s agricultural landscape has long been shaped by unpredictable climate conditions. Despite these, generations of farmers have relied on local knowledge passed down orally through folklore, rituals, and songs, observing their relationship to the land and their stability in the face of environmental changes.\_\_\n"
     images:
-      - url: /IMG_20220126_152005 1.png
+      - url: /crc-image-group.webp
     slug: climate-resource-center

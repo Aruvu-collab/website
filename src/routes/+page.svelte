@@ -12,7 +12,7 @@
 <!-- Full-screen hero section -->
 <section
   class="relative w-full h-screen bg-cover bg-no-repeat bg-center"
-  style="background-image: url('/img/coverfull.jpg');"
+  style="background-image: url('/img/coverfull.webp');"
 >
   <!-- Gradient overlay -->
   <div
@@ -36,7 +36,7 @@
 <section class="max-w-6xl mx-auto pt-10 min-h-[80vh] pb-10 px-6 grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
     <!-- Right Side: Image -->
     <div class="flex justify-center">
-      <img src="/baithak.jpg" alt="Collaborative Approach" class="shadow-lg w-full h-auto object-cover" />
+      <img src="/baithak.webp" alt="Collaborative Approach" class="shadow-lg w-full h-auto object-cover" />
     </div>
   
   <!-- Left Side: Information -->
