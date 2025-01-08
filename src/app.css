@@ -2,3 +2,42 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+p {
+	@apply py-2;
+}
+
+h1 {
+	@apply mb-4 text-2xl font-bold text-gray-900;
+}
+
+h2 {
+	@apply text-xl;
+}
+
+h3 {
+	@apply text-lg;
+}
+
+a:has(h1, h2, h3) {
+	@apply no-underline;
+}
+
+a {
+	@apply underline;
+}
+
+.card-container {
+	@apply mx-auto grid max-w-5xl grid-cols-1 gap-y-8 p-5 pb-10 pt-5 sm:grid-cols-2 sm:p-5 md:grid-cols-2 md:gap-4;
+}
+
+.card {
+	@apply mx-5 items-center rounded shadow-md md:mx-0;
+}
+
+.card:hover {
+	@apply bg-aruvulightpink shadow-xl;
+	transition:
+		transform 0.3s ease,
+		box-shadow 0.3s ease;
+}

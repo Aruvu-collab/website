@@ -16,6 +16,9 @@
 		"@tinacms/cli": "^1.6.9",
 		"@types/node": "^22.7.5",
 		"autoprefixer": "^10.4.20",
+		"prettier": "^3.4.2",
+		"prettier-plugin-svelte": "^3.3.2",
+		"prettier-plugin-tailwindcss": "^0.6.9",
 		"svelte": "^4.2.7",
 		"vite": "^5.0.3"
 	},
@@ -26,12 +29,13 @@
 		"@sveltejs/adapter-cloudflare": "^5.0.0",
 		"@sveltejs/adapter-static": "^3.0.8",
 		"dompurify": "^3.1.7",
-		"marked": "^14.1.2",
+		"marked": "^14.1.4",
 		"svelte-fa": "^4.0.3",
 		"svelte-hero-icons": "^5.2.0",
 		"svelte-markdown": "^0.4.1",
 		"tinacms": "^2.2.9",
 		"wrangler": "^3.99.0",
 		"yaml": "^2.5.1"
-	}
+	},
+	"packageManager": "yarn@4.6.0+sha512.5383cc12567a95f1d668fbe762dfe0075c595b4bfff433be478dbbe24e05251a8e8c3eb992a986667c1d53b6c3a9c85b8398c35a960587fbd9fa3a0915406728"
 }
