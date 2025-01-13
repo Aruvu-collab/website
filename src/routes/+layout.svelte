@@ -3,6 +3,14 @@
 	import { page } from '$app/stores';
 </script>
 
+<svelte:head>
+	<script
+		defer
+		src="https://cloud.umami.is/script.js"
+		data-website-id="bfa84bd9-0558-48b3-89ab-efc424187840"
+	></script>
+</svelte:head>
+
 <!-- Navigation Bar -->
 <nav class="sticky top-0 z-50 w-full bg-white p-4">
 	<!-- First Line: Logo Section -->
