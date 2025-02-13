@@ -26,7 +26,7 @@
 
 	<!-- Second Line: Navigation Links -->
 	<div class="flex justify-center">
-		<div class="flex flex-wrap space-x-4 text-center">
+		<div class="space-x-4 text-center">
 			{#if $page.url.pathname != '/'}
 				<a href="/" class="font-medium text-aruvupink hover:text-gray-400">Home</a>
 			{/if}
@@ -40,6 +40,11 @@
 				href="/engagements"
 				data-sveltekit-reload
 				class="font-medium text-aruvupink hover:text-gray-400">Engagements</a
+			>
+			<a
+				href="/contact"
+				data-sveltekit-reload
+				class="font-medium text-aruvupink hover:text-gray-400">Contact us</a
 			>
 			<!-- <a href="/places" class="text-maroon font-medium hover:text-gray-400">Places</a> -->
 			<!-- <a href="/collaborators" class="text-maroon font-medium hover:text-gray-400">Collaborators</a> -->
