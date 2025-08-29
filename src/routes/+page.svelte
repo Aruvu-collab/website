@@ -193,6 +193,23 @@
 	</section>
 </div>
 
+<div class="bg-white">
+	<a href="https://untold.town">
+		<section class="mx-auto max-w-6xl py-10">
+			<h2 class="mb-5 text-center text-2xl font-bold">
+				Visit our Place based journal: Untold.Town
+			</h2>
+			<p class="mx-auto mb-8 max-w-2xl text-center text-gray-900">
+				Our place-based web-journal from people, places and practices, told in multiple voices from
+				across locations in Hyderabad-Karnataka region, Channapatna, Kundapura and Chennai regions.
+				Untold Town covers a variety of publishing forms where we share our learnings, discoveries,
+				dilemmas, dialogues, positions, methods, initiatives and so on.
+			</p>
+			<img src="untold_front.webp" class="mx-auto p-2 md:w-[60vw]" />
+		</section>
+	</a>
+</div>
+
 <style>
 	li {
 		margin-top: 0.5rem;

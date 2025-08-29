@@ -46,6 +46,12 @@
 				data-sveltekit-reload
 				class="font-medium text-aruvupink hover:text-gray-400">Contact us</a
 			>
+			<a
+			href="https://untold.town"
+			data-sveltekit-reload
+			target="_blank"
+			class="font-medium text-aruvupink hover:text-gray-400 !bold">Untold.Town</a
+		>
 			<!-- <a href="/places" class="text-maroon font-medium hover:text-gray-400">Places</a> -->
 			<!-- <a href="/collaborators" class="text-maroon font-medium hover:text-gray-400">Collaborators</a> -->
 		</div>
@@ -60,4 +66,5 @@
 <!-- Footer -->
 <footer class="my-20 text-center text-black">
 	<p>&copy; 2025 Aruvu Collaboratory LLP. All rights reserved.</p>
+	<p>Visit our <a href="https://untold.town" target="_blank">Place-based journal: Untold.Town</a></p>
 </footer>
