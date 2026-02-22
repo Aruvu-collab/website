@@ -35,7 +35,7 @@
 
 <style>
 	img {
-		filter: grayscale(100%) opacity(90%);
+		filter: grayscale(40%) opacity(90%);
 		transition: filter 0.3s ease;
 	}
 </style>
